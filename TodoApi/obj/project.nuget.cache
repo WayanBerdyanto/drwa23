@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOgIZOrag5XItGNwzeAsk6QyF6953wKCuRWBs0DATu5HUbM6Mr5IP6bKYXDxIa2ol44FGtOWrh0rOYfwCwsopA==",
+  "dgSpecHash": "UdidmKgCqS7JxB3gy/0gSmHU5OX+ov2k55sKns++U0HoguZpnLNnQuW5cdMVpn0aq5T/EH3m4WZHRJAXT0wr5w==",
   "success": true,
-  "projectFilePath": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\api_1\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\try_api\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",

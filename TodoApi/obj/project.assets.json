@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\api_1\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\try_api\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\api_1\\TodoApi\\TodoApi.csproj",
+      "projectPath": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\try_api\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\api_1\\TodoApi\\obj\\",
+      "outputPath": "E:\\..SEMESTER 4\\KULIAH\\Desain RestFul API\\try_api\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
